@@ -1,4 +1,5 @@
-### Hi there 👋
+## How's it going lads? 👋
+### My name is Pandu and I still don't know what I'm doing in life. But hey, who even does, right? Anyway, I study electrical engineering too.
 
 <!--
 **artreides/artreides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
